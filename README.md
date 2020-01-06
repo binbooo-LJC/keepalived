@@ -10,7 +10,7 @@ keepalived 高可用lvs负载均衡集群
 ##### 
   realServer.sh
 ####
- 分别将realServer.sh 放置RS1和RS2，sh realServer.sh start
+ 分别将realServer.sh 放置RS1和RS2，启动 sh realServer.sh start
 ### 
 
 
